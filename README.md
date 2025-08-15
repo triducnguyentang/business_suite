@@ -4,6 +4,13 @@
 
 ---
 
+## Installation
+
+Clone the repository:
+```shell
+git clone https://github.com/triducnguyentang/business_suite.git
+```
+
 ## Usage & Testing
 
 *This section covers how to run the application and its test suite.*
